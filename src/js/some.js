@@ -6,6 +6,8 @@ function sum(x, y) {
 }
 
 function exported(x, y) {
+    console.log(x);
+    console.log(x);
     return sum(x , y);
 }
 
